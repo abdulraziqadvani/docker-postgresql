@@ -1,0 +1,10 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Docker volumes
+postgres_data/
+
+# Logs
+*.log
